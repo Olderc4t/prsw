@@ -1,0 +1,14 @@
+{
+  "name": "exercicio1",
+  "version": "1.0.0",
+  "description": "programa que receba 3 números do usuário, coloque-os em um ",
+  "main": " os elementos do array de modo a ",
+  "scripts": {
+    "test": "eros ficar do contrário"
+  },
+  "author": "Lucas L Magalhães",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
